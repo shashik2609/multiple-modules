@@ -1,0 +1,4 @@
+# Project exclude paths
+/business/target/
+/persistence/target/
+/web/target/
